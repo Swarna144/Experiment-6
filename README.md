@@ -192,6 +192,7 @@ int main()
 OUTPUT:-
 
 ![Ex 6 JPG](https://github.com/user-attachments/assets/7976d40a-8459-4e4e-b08a-6c2d457b758a)
+
 ![Ex 6(1) JPG](https://github.com/user-attachments/assets/6d086b0b-b05c-43ef-a649-99b8abacdff1)
 
 
